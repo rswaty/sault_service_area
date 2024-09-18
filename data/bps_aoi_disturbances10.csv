@@ -1,0 +1,77 @@
+TransitionGroupID,Model_Code,annual_probability,BpS_Name,BLUE,ACRES,REL_PERCENT,annual_dist_acres
+All Fire,14810_41_50_51_63,0.000999,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1,1311036,23.1,1309.724964
+All Transitions,14810_41_50_51_63,0.0051708,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1,1311036,23.1,6779.104949
+Non Fire Disturbances,14810_41_50_51_63,0.0041718,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1,1311036,23.1,5469.379985
+Replacement Fire,14810_41_50_51_63,0.000999,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1,1311036,23.1,1309.724964
+Wind or Weather or Stress,14810_41_50_51_63,0.0041718,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,1,1311036,23.1,5469.379985
+All Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0,995739,17.5,483.929154
+All Transitions,13022_41_50_51,0.0017866,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0,995739,17.5,1778.987297
+Alternative Succession,13022_41_50_51,0.000384,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0,995739,17.5,382.363776
+Non Fire Disturbances,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0,995739,17.5,912.6943674
+Replacement Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0,995739,17.5,483.929154
+Wind or Weather or Stress,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0,995739,17.5,912.6943674
+All Fire,14770_40_41_50_51,0.0096418,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,8802.953758
+All Transitions,14770_40_41_50_51,0.0232502,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,21227.40935
+Insect or Disease,14770_40_41_50_51,0.0016394,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,1496.770561
+Non Fire Disturbances,14770_40_41_50_51,0.0136084,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,12424.45559
+Non Replacement Fire,14770_40_41_50_51,0.0082316,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,7515.442568
+Optional 1,14770_40_41_50_51,0.009123,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,8329.289877
+Optional Types,14770_40_41_50_51,0.009123,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,8329.289877
+Replacement Fire,14770_40_41_50_51,0.0014102,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,1287.51119
+Surface Fire,14770_40_41_50_51,0.0082316,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,7515.442568
+Wind or Weather or Stress,14770_40_41_50_51,0.002846,Boreal Acidic Peatland Systems,0.541176471,912999,16.1,2598.395154
+All Fire,13652_51,0.0018992,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,890.753288
+All Transitions,13652_51,0.0173768,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,8149.979852
+Alternative Succession,13652_51,0.0013544,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,635.233916
+Insect or Disease,13652_51,0.0132968,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,6236.398652
+Mixed Fire,13652_51,0.00079,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,370.52185
+Non Fire Disturbances,13652_51,0.0141232,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,6623.992648
+Non Replacement Fire,13652_51,0.00079,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,370.52185
+Replacement Fire,13652_51,0.0011092,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,520.231438
+Wind or Weather or Stress,13652_51,0.0008264,Boreal White Spruce-Fir-Hardwood Forest - Coastal,0.274509804,469015,8.3,387.593996
+All Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0.588235294,446946,7.9,217.215756
+All Transitions,13022_41_50_51,0.0017866,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0.588235294,446946,7.9,798.5137236
+Alternative Succession,13022_41_50_51,0.000384,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0.588235294,446946,7.9,171.627264
+Non Fire Disturbances,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0.588235294,446946,7.9,409.6707036
+Replacement Fire,13022_41_50_51,0.000486,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0.588235294,446946,7.9,217.215756
+Wind or Weather or Stress,13022_41_50_51,0.0009166,Laurentian-Acadian Northern Hardwoods Forest - Hemlock,0.588235294,446946,7.9,409.6707036
+All Fire,13660_51_63_64_65_66,0.0064298,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,2105.44444
+All Transitions,13660_51_63_64_65_66,0.007392,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,2420.517792
+Mixed Fire,13660_51_63_64_65_66,0.0009764,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,319.7231564
+Non Fire Disturbances,13660_51_63_64_65_66,0.0009622,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,315.0733522
+Non Replacement Fire,13660_51_63_64_65_66,0.0043526,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,1425.263223
+Replacement Fire,13660_51_63_64_65_66,0.0020772,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,680.1812172
+Surface Fire,13660_51_63_64_65_66,0.0033762,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,1105.540066
+Wind or Weather or Stress,13660_51_63_64_65_66,0.0009622,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,0.388235294,327451,5.8,315.0733522
+All Fire,13651_51,0.0039598,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,1257.767113
+All Transitions,13651_51,0.0836148,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,26558.90338
+Alternative Succession,13651_51,0.0022104,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,702.0981936
+Insect or Disease,13651_51,0.011187,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,3553.371558
+Mixed Fire,13651_51,0.0019318,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,613.6053612
+Non Fire Disturbances,13651_51,0.0774446,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,24599.03808
+Non Replacement Fire,13651_51,0.0019318,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,613.6053612
+Replacement Fire,13651_51,0.002028,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,644.161752
+Wind or Weather or Stress,13651_51,0.0662576,Boreal White Spruce-Fir-Hardwood Forest - Inland,0.447058824,317634,5.6,21045.66652
+All Fire,13441_51,0.1932342,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,0.549019608,305454,5.4,59024.15933
+All Transitions,13441_51,0.1932342,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,0.549019608,305454,5.4,59024.15933
+Mixed Fire,13441_51,0.0158722,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,0.549019608,305454,5.4,4848.226979
+Non Replacement Fire,13441_51,0.1635562,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,0.549019608,305454,5.4,49958.89551
+Replacement Fire,13441_51,0.029678,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,0.549019608,305454,5.4,9065.263812
+Surface Fire,13441_51,0.147684,Boreal Jack Pine-Black Spruce Forest - Pine Barrens,0.549019608,305454,5.4,45110.66854
+All Fire,13620_51_63_64_65_66,0.0205164,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,3214.222322
+All Transitions,13620_51_63_64_65_66,0.0272662,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,4271.686489
+Alternative Succession,13620_51_63_64_65_66,0.0008822,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,138.2107452
+Competition or Maintenance,13620_51_63_64_65_66,0.0025008,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,391.7903328
+Mixed Fire,13620_51_63_64_65_66,0.0022214,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,348.0178524
+Non Fire Disturbances,13620_51_63_64_65_66,0.0058676,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,919.2534216
+Non Replacement Fire,13620_51_63_64_65_66,0.0172968,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,2709.820469
+Replacement Fire,13620_51_63_64_65_66,0.0032196,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,504.4018536
+Surface Fire,13620_51_63_64_65_66,0.0150754,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,2361.802616
+Wind or Weather or Stress,13620_51_63_64_65_66,0.0033668,Laurentian-Acadian Northern Pine(-Oak) Forest,0.749019608,156666,2.8,527.4630888
+All Fire,14071_41_50_51,0.227989,Laurentian Pine-Oak Barrens,0,55713,1,12701.95116
+All Transitions,14071_41_50_51,0.228269,Laurentian Pine-Oak Barrens,0,55713,1,12717.5508
+Alternative Succession,14071_41_50_51,0.00028,Laurentian Pine-Oak Barrens,0,55713,1,15.59964
+Mixed Fire,14071_41_50_51,0.0133642,Laurentian Pine-Oak Barrens,0,55713,1,744.5596746
+Non Replacement Fire,14071_41_50_51,0.2188268,Laurentian Pine-Oak Barrens,0,55713,1,12191.49751
+Replacement Fire,14071_41_50_51,0.0091622,Laurentian Pine-Oak Barrens,0,55713,1,510.4536486
+Surface Fire,14071_41_50_51,0.2054626,Laurentian Pine-Oak Barrens,0,55713,1,11446.93783
